@@ -1,7 +1,7 @@
 # projeto-canil
  
 ### Pre-requisitos globais:
-'npm install -g nodemon typescript mustache-express'
+'npm install -g nodemon typescript ts-node'
 
 ### Como baixar dependecias do projeto
 'npm install ou npm i'
